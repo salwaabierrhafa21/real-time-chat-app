@@ -17,4 +17,4 @@ Aplikasi chat sederhana menggunakan Laravel yang mendukung:
 Clone repository:
 
 ```bash
-git clone https://github.com/username/laravel-private-group-chat.git
+git clone https://github.com/salwaabierrhafa21/real-time-chat-app
